@@ -1,0 +1,21 @@
+{
+    "author": "ayush.gupta2430@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "metarwx",
+    "pebble": {
+        "displayName": "MetarWx",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "404c2178-634a-4ee9-a99c-14b0bd24647c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
